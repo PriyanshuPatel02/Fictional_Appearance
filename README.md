@@ -8,6 +8,6 @@ Know what your name depicts about your appearance
 ![Elon musk](https://user-images.githubusercontent.com/76871235/174385956-9c233cc7-57f5-428e-82c6-f0f7b6990391.jpg)
 ![virat_kohli](https://user-images.githubusercontent.com/76871235/174385965-70833055-7969-4fc8-b511-633c4395eaeb.jpg)
 ![Nidhi](https://user-images.githubusercontent.com/76871235/174390737-784da927-3e86-4ffd-b607-ede0e0245076.jpg)
-# Try this Model [Here](https://priyanshupatel02.github.io/Fictional_Appearance/).
+# Try the Model by Clicking [Here](https://priyanshupatel02.github.io/Fictional_Appearance/).
 > Developed by Priyanshu Patel
 
