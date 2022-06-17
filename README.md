@@ -6,3 +6,4 @@ Know what your name depicts about your appearance
 ![Shraddha Kapoor](https://user-images.githubusercontent.com/76871235/174385952-f058e7f2-9293-4135-85bd-a97be4ae8453.jpg)
 ![Elon musk](https://user-images.githubusercontent.com/76871235/174385956-9c233cc7-57f5-428e-82c6-f0f7b6990391.jpg)
 ![virat_kohli](https://user-images.githubusercontent.com/76871235/174385965-70833055-7969-4fc8-b511-633c4395eaeb.jpg)
+# Try this Model 
